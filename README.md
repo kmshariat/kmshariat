@@ -1,4 +1,4 @@
-<img align="center" src= "https://img.youtube.com/vi/ryg077wBvsM/maxresdefault.jpg" width="640px" height = "360px">
+<p align='center'> <img src= "https://img.youtube.com/vi/ryg077wBvsM/maxresdefault.jpg" width="640px" height = "360px"> </p>
 <h1 align="center">Hi there, This is K.M Shariat Ullah</h1>
 <h3 align="center"><i>Homo barbatus</i> <b> (S.U. 2019)</b></h3>
 
