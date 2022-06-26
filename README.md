@@ -4,4 +4,6 @@
 
 - 🔭 I’m currently working on radio astronomy (Astronomical Image Processing)
 - 🌱 I’m currently learning python, Numpy, MatPlotLib, Scipy and Manim.
-- Reach me at facebook https://www.facebook.com/kmshariatbd] (url)
+
+<h1 align="center">Social Media Handles</h1>
+[![Facebook Badge](https://img.shields.io/badge/-KMShariatUllah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/kmshariatbd)](https://www.facebook.com/kmshariatbd)
