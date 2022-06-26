@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning python, Numpy, MatPlotLib, Scipy and Manim.
 
 <h1 align="center">Social Media Handles</h1>
-[![Facebook Badge](https://img.shields.io/badge/-KMShariatUllah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/kmshariatbd)](https://www.facebook.com/kmshariatbd)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/kmshariatbd)]
