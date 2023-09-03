@@ -6,6 +6,11 @@
 - ✔️ I’m currently learning Signal Processing, Machine Learning and Data Scrapping.
 - ✔️ I'm a student of Electrical and Electronic Engineering at SUST
 
+<h1 align="center">Things to Learn</h1>
+<h2 align="left">2023</h2>
+- [x] Seaborn
+- [] LTSpice
+
 <h1 align="center">Social Media Handles</h1>
 
 <p align='center'>
