@@ -7,7 +7,7 @@
 - ✔️ I'm a student of Electrical and Electronic Engineering at SUST
 
 <h1 align="center">Things to Learn</h1>
-## 2023
+
 - [x] Seaborn
 - [ ] LTSpice
 
