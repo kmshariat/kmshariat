@@ -9,8 +9,10 @@
 <h1 align="center">Things to Learn</h1>
 
 - [x] Seaborn
-- [ ] LTSpice
+- [ ] Lightkurve
+- [ ] AstroPy
 - [ ] Astronomy Data Query Language
+- [ ] LTSpice
 - [ ] Rubick's Cube Under 30 seconds
 - [ ] Give a Talk on My Research Topic
 - [ ] Create Python Projects for Beginners
