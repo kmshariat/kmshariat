@@ -19,10 +19,10 @@
 - [x] Learn Tkinter
 - [ ] Learn Machine Learning
 - [ ] Learn Deep Learning
-- [ ] Participate in University Physics Comp
+- [x] Participate in University Physics Comp
 - [ ] Verify Atleast 10 Research Papers
 - [ ] Manage a Sponsor for Int Bee 2023
-- [ ] Read 20 Books
+- [x] Read 20 Books
 - [ ] Email and Connect with 20 Prof of my Field 
 
 <h1 align="center">Social Media Handles</h1>
