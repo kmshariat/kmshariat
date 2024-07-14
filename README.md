@@ -6,13 +6,13 @@
 - ✔️ I’m currently learning Signal Processing, Machine Learning and Data Scrapping.
 - ✔️ I'm a student of Electrical and Electronic Engineering at SUST
 
-<h1 align="center">Things to Learn</h1>
+<h1 align="center">Things to Do</h1>
 
 - [x] Seaborn
 - [ ] Lightkurve
 - [ ] AstroPy
 - [ ] Astronomy Data Query Language
-- [ ] LTSpice
+- [x] LTSpice
 - [ ] Rubick's Cube Under 30 seconds
 - [ ] Give a Talk on My Research Topic
 - [ ] Create Python Projects for Beginners
@@ -21,7 +21,7 @@
 - [ ] Learn Deep Learning
 - [x] Participate in University Physics Comp
 - [ ] Verify Atleast 10 Research Papers
-- [ ] Manage a Sponsor for Int Bee 2023
+- [ ] Manage a Sponsor for Int Bee 2024
 - [x] Read 20 Books
 - [ ] Email and Connect with 20 Prof of my Field 
 
