@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, This is K.M Shariat Ullah</h1>
 <h3 align="center"><i>Homo barbatus</i> <b> (S.U. 2019)</b></h3>
 
-- ✔️ I’m currently working on radio astronomy (Astronomical Data and Signal Processing)
+- ✔️ I’m currently working on Exoplanet Data Modelling for Keplerian and Non-Keplerian Orbits
 - ✔️ I’m currently learning Signal Processing, Machine Learning and Data Scrapping.
 - ✔️ I'm a student of Electrical and Electronic Engineering at SUST
 
