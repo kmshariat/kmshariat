@@ -3,6 +3,7 @@
 <h3 align="center"><i>Homo barbatus</i> <b> (S.U. 2019)</b></h3>
 
 - ✔️ I’m currently working on Exoplanet Data Modelling for Keplerian and Non-Keplerian Orbits
+- ✔️ I’m also interested in galaxy evolution, cosmology and gravitational lensing.
 - ✔️ I’m currently learning Signal Processing, Machine Learning and Data Scrapping.
 - ✔️ I'm a student of Electrical and Electronic Engineering at SUST
 
