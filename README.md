@@ -10,6 +10,6 @@
 <h1 align="center">Social Media Handles</h1>
 
 <p align='center'>
-<a href="https://kmshariat.github.io/" target="blank"><img align="center" src="https://icons8.com/icon/1349/website" width="3.5%"/></a>
+<a href="https://kmshariat.github.io/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/domain.png" width="3.5%"/></a>
 <a href="https://www.linkedin.com/in/kmshariat/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" /></a>
 <a href="https://www.facebook.com/kmshariat.astro" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%" /></a>
